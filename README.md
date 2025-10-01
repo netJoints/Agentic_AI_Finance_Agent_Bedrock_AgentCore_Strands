@@ -58,4 +58,5 @@ Each agent shows:
 
 ## 🔐 Security Highlights Section
 Shows Britive's zero-trust architecture benefits
+
 The diagram uses arrows to show data flow from top to bottom, with clear visual separation of each layer and color-coding for easy understanding! 🎨
