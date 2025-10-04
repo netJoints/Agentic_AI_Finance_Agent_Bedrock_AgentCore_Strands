@@ -3,6 +3,7 @@ Enterprise Financial AI Platform - Web Interface
 Protected by Britive Dynamic Privileged Access Management
 This code is not using the hosted AWS Bedrock AgentCore yet
 This code is working flawlessly using local laptop running the agents
+This version has no MCP server yet.
 """
 
 from flask import Flask, render_template_string, request, jsonify, send_from_directory
