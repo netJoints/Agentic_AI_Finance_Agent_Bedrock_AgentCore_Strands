@@ -1,4 +1,4 @@
-# Agentic AI Finance Agent with Bedrock AgentCore using Strands
+# FinOps Agentic AI | Bedrock Snoet LLM | Local Strands Agents
 Software and Security Architecture 
 https://claude.ai/public/artifacts/8595c79c-4d8f-44f3-bbc8-68ff4a118887
 
